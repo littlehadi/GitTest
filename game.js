@@ -1,1 +1,2 @@
-public lass game {
+public class game {
+}
