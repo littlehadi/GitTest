@@ -9,4 +9,6 @@ public class Game2 {
 	private  // hello world 
 
 	private int player4;
+
+	private int hello;
 }
