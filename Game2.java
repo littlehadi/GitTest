@@ -12,5 +12,5 @@ public class Game2 {
 
 	private int hello;
 
-	private 
+	private int hi;
 }
